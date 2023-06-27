@@ -42,7 +42,7 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        // dfEDFTF 453232TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.example.bmi_calcolator_project"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
